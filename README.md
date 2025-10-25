@@ -1,2 +1,3 @@
 # MSCS532_Assignment1
-MSCS532_Assignment1
+This program implements the Insertion Sort algorithm to arrange an array of integers in monotonically decreasing order, meaning the elements are sorted from largest to smallest. The algorithm works by iterating through the array, selecting each element in turn, and comparing it with the already sorted section of the array. If the current element is larger than the element it’s being compared to, the program shifts the elements in the sorted portion to the right to make space for the current element. This process continues until all elements are inserted into their correct positions, resulting in a sorted array in descending order.
+
